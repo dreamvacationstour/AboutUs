@@ -20,16 +20,6 @@ We offer meticulously designed travel packages to some of the world’s most bre
 
 ---
 
-## 📦 Featured Packages
-
-| Package                          | Duration       | Price (INR) | Discount     | Includes                         |
-|----------------------------------|----------------|-------------|--------------|----------------------------------|
-| **Ladakh Adventure**            | 6 days / 5 nights | ₹800         | ~16% off (₹950) | Stay, transfers, activities       |
-| **Uttarakhand Serenity**        | 6 days / 5 nights | ₹175         | ~10% off (₹190) | Stay, transfers, activities       |
-| **Escape to Dubai**             | 5 days / 4 nights | ₹1200        | ~20% off (₹1500)| Stay, transfers, activities       |
-
----
-
 ## 💡 Why Choose Dream Vacation Tours?
 
 - ✅ **Verified Activities**: All adventures are vetted for quality, safety, and exceptional experiences.
