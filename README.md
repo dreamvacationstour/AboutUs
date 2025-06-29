@@ -44,8 +44,8 @@ By subscribing, you agree to our [Privacy Policy](#) and [Terms of Service](#).
 
 ## 📞 Contact Us
 
-- 🌐 Website: [dream-vacation-tours.vercel.app](https://www.dreamvacationstour.com)
-- 📧 Email: [support@dreamvacationtours.com](mailto:info@dreamvacationstour.com)
+- 🌐 Website: [www.dreamvacationstour.com](https://www.dreamvacationstour.com)
+- 📧 Email: [info@dreamvacationstour.com](mailto:info@dreamvacationstour.com)
 - 🕔 Support: 24/7 via website or email
 
 ---
